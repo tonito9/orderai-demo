@@ -1,0 +1,8 @@
+streamlit
+pandas
+Pillow
+python-dotenv
+openai
+pinecone-client
+replicate
+requests
